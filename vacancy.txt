@@ -1,0 +1,37 @@
+Requirements: 
+  - IaC instead configuration drift, clouds instead bare-metal
+  - k8s / docker enterprise 
+  - Cloud-native CI/CD Pipeline (GitLab-CI, drone.io, CircleCI, Jenkins X, etc)
+  - Whitebox Monitoring
+  - *nix systems strong knowledge
+  - TCP and OSI layers, routes, firewall
+  - basic knowledge in (application, network, infrastructure) security
+  - set up testing flow, Test Pyramid, IaC solution self-testing ;), 
+  - good knowlage at least one of: golang, python, node.js, C/C++
+  - sharding techniques for db, application, infrastructure
+  - setup auto-backup systems
+  - DRY, KISS, YAGNI, SoC
+  - Principles of container-based application design
+  - Hands-on experience with GCP
+Key Responsibilities:
+  - Migrate existing services, application and databases to Google Cloud Platform.
+  - Set-up, configure and maintain development, testing and staging environments.
+  - Design and develop automation workflows for testing applications
+  - Automate the configuration and provisioning of environments through CD/CI tooling.
+  - Perform unit tests on all built services; conduct reviews to ensure work is well designed.
+  - Investigate, evaluate and recommend new tools and technologies.
+  - Maintain tools for configuration management, build, continuous integration and deployment, reporting, monitoring etc.
+  - Develop the required scripts to support automation of processes.
+  - Detect and resolve security, performance and availability issues.
+  - Working with big data (~10TB mySQL, BigQuery)
+
+Other desired skills:
+  - Experience with automated scripts to build, deploy and manage IaC (e.g., Terraform).
+  - Experience with Cloud monitoring tools
+  - Experience with GitOps approach
+  - Experience with PHP/Yii/Symfony
+  - Experience with MySQL, RabbitMQ, Memcached, MongoDB, ElasticSearch
+  - Working knowledge of Cloud architecture
+  - Micro-service paradigm and deployment
+  - OO principles and functional programming paradigm
+  - Experience with high-load projects
